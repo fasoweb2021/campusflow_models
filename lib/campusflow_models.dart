@@ -11,4 +11,3 @@ export 'repositories/campus_repository.dart';
 
 // Éléments de base du package
 export 'src/campusflow_models_base.dart';
-

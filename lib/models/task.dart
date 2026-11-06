@@ -1,4 +1,3 @@
-
 /// Modèle représentant une tâche dans CampusFlow.
 class Task {
   /// Identifiant unique de la tâche
@@ -59,4 +58,3 @@ class Task {
     };
   }
 }
-
